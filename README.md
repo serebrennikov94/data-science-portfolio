@@ -13,6 +13,6 @@ Repository containing portfolio of data science projects completed by me for lea
  
  - ### Data Analysis 
  
-  - [Information analysis from Megafon company](https://github.com/serebrennikov94/data-science-portfolio/blob/main/Information%20analysis%20from%20Megafon%20company/Information%20analysis%20from%20Megafon%20company%20notebook.ipynb): Analysis of customer survey from Megafon and create research about dependence of the client's assessment on technical indicators.
+    - [Information analysis from Megafon company](https://github.com/serebrennikov94/data-science-portfolio/blob/main/Information%20analysis%20from%20Megafon%20company/Information%20analysis%20from%20Megafon%20company%20notebook.ipynb): Analysis of customer survey from Megafon and create research about dependence of the client's assessment on technical indicators.
   
   _Tools: SciPy, Pandas, Numpy, Plotly, Seaborn, Matplotlib.
