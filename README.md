@@ -1,5 +1,5 @@
 # Data Science portfolio 
-Repository containing portfolio of data science projects completed by me for learning purposes.
+Repository containing portfolio of data science projects completed by me for learning and practical purposes.
 
 ## Contents
 
