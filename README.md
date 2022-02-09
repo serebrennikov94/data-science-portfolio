@@ -6,6 +6,7 @@ Repository containing portfolio of data science projects completed by me for lea
 - ### Machine Learning
 
   - [Big Mart Sales Prediction (Competition Analytics Vidhya)](https://github.com/serebrennikov94/data-science-portfolio/blob/main/Big%20Mart%20Sales%20Prediction%20(Competition%20Analytics%20Vidhya)/Big_Mart_Sales_Prediction_notebook.ipynb): A model to predict the sales of the product in the particular store using various statistical analysis tools. Predicted the sales for test data set. 
+  - [Black Friday Sales Prediction (Competition Analytics Vidhya)](https://github.com/serebrennikov94/data-science-portfolio/blob/main/Black%20Friday%20Sales%20Prediction/Black_Friday_Sales_Prediction_notebook.ipynb): A model to predict the purchase amount of customer against various products which will help company to create personalized offer for customers against different products.
   - [HR Analytics (Competition Analytics Vidhya)](https://github.com/serebrennikov94/data-science-portfolio/blob/main/HR%20Analytics%20(Competition%20Analytics%20Vidhya)/HR_Analytics_notebook.ipynb): A model to predict whether a potential promotee at checkpoint in the test set will be promoted or not after the evaluation process.
   - [Hackaton MKB](https://github.com/serebrennikov94/data-science-portfolio/blob/main/Hackaton%20MKB/hackaton_mkb_notebook.ipynb): A model to predict the probability of non-fulfillment of the contract by the supplier. Hackaton from CREDIT BANK OF MOSCOW. 
  
